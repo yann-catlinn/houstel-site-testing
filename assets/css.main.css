@@ -9978,11 +9978,7 @@ h6 {
 .header {
   padding-top: 2rem;
   padding-left: 2rem;
-<<<<<<< HEAD
-  background-image: url(../../images/background1.jpg);
-=======
->>>>>>> master
-  background-color: yellow;
+  background-color: red;
 }
 
 .logo {
@@ -9994,19 +9990,11 @@ h6 {
   left: 50%;
   top: 9.5vh;
   transform: translateX(-50%);
-<<<<<<< HEAD
   background-image: url(../images/background1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   height: 100%;
-=======
-  background-image: url(../images/main.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100vw;
-  background-color: yellow;
->>>>>>> master
 }
 
 .main__container {
@@ -10084,4 +10072,4 @@ h6 {
   background-color: #FFF;
 }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=css.main.css.map */
