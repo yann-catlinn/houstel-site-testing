@@ -9978,6 +9978,7 @@ h6 {
 .header {
   padding-top: 2rem;
   padding-left: 2rem;
+  background-color: yellow;
 }
 
 .logo {
@@ -9989,9 +9990,11 @@ h6 {
   left: 50%;
   top: 9.5vh;
   transform: translateX(-50%);
-  background-image: url(../../images/background.jpg);
+  background-image: url(../images/main.png);
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100vw;
+  background-color: yellow;
 }
 
 .main__container {
