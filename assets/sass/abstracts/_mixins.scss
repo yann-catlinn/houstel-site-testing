@@ -1,0 +1,17 @@
+@mixin important-text {
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+/*
+asi se usan después donde quieran usarse....
+.danger {
+@include: important-text; background-color: green;
+}
+
+.black {
+@include: important-text; background-color: black;
+}
+*/

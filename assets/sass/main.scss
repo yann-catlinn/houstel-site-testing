@@ -1,0 +1,20 @@
+//main.scss #Manifest file
+//abstracts
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+//vendors
+//@import "vendors/bootstrap-4.5.0/bootstrap.scss";
+@import "bootstrap-4.5.0-override.scss";
+//base
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+//layout
+@import 'layout/forms';
+@import 'layout/header';
+@import 'layout/main-section';
+//components
+@import 'components/buttons';
+@import 'components/inputs';
+//pages
+//theme
